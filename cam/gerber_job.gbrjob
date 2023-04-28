@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.1.0*%
+%TF.CreationDate,2023-04-28T19:49:15Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Nate D <natologic@gmail.com>*%
+%TJ.B_ID,wifiIO*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,72.060000*%
+%TJ.B_Size_Y,45.710000*%
+M02*
